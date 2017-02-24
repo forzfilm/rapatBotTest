@@ -22,6 +22,7 @@ mod-wsgi==4.5.13
 oauth2client==1.5.2
 oauthlib==2.0.1
 openapi-codec==1.2.1
+pycparser==2.14           # via cffi
 PySocks==1.6.1
 pytz==2016.7
 PyYAML==3.12
