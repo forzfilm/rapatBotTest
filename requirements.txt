@@ -44,7 +44,6 @@ requests==2.10.0
 requests-oauthlib==0.8.0
 rsa==3.4.2
 selenium==2.53.2
-setupfiles
 simplejson==3.10.0
 six==1.10.0
 suds-jurko==0.6
