@@ -38,8 +38,6 @@ PySocks==1.6.1
 python-twitter==3.2.1
 pytz==2016.7
 PyYAML==3.12
-query-string==0.0.0
-request==0.0.0
 requests==2.10.0
 requests-oauthlib==0.8.0
 robotframework==3.0
@@ -49,7 +47,6 @@ robotframework-selenium2library==1.7.4
 robotframework-sshlibrary==2.1.2
 rsa==3.4.2
 selenium==2.53.2
-setupfiles==0.0.0
 simplejson==3.10.0
 six==1.10.0
 suds-jurko==0.6
