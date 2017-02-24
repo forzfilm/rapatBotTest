@@ -3,6 +3,7 @@ ChatterBot==0.5.5
 click==6.6
 coreapi==2.1.1
 cryptography==1.4
+cython==4.3.3
 decorator==4.0.10
 Django==1.10.4
 django-filter==1.0.1
