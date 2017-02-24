@@ -40,10 +40,6 @@ pytz==2016.7
 PyYAML==3.12
 requests==2.10.0
 requests-oauthlib==0.8.0
-robotframework==3.0
-robotframework-databaselibrary==0.6
-robotframework-requests==0.4.5
-robotframework-selenium2library==1.7.4
 robotframework-sshlibrary==2.1.2
 rsa==3.4.2
 selenium==2.53.2
