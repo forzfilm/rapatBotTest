@@ -25,7 +25,7 @@ SECRET_KEY = 'pw(kagwo2a6#tw)906d+z_woky=l!v4yv4ose5u4qw0xwo@xak'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','172.16.30.58','192.168.1.36','192.168.1.144','10.78.168.119','192.168.1.108','10.78.168.74']
+ALLOWED_HOSTS = [*]
 
 
 # Application definition
@@ -128,3 +128,4 @@ STATIC_ROOT = os.path.normpath(os.path.join(BASE_DIR, 'staticfiles'))
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static'),
 )
+STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
