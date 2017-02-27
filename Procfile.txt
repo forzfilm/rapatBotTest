@@ -1,1 +1,0 @@
-python rapatbot/manage.py runserver
