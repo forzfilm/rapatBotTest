@@ -23,6 +23,7 @@ itsdangerous==0.24
 itypes==1.1.0
 Jinja2==2.8
 jsondatabase==0.1.7
+libsass==0.12.3
 line-bot-sdk==1.1.0
 Markdown==2.6.7
 MarkupSafe==0.23
