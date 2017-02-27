@@ -1,1 +1,1 @@
-web: gunicorn rapatbot.wsgi -b 0.0.0.0:$PORT
+python rapatbot/manage.py runserver
