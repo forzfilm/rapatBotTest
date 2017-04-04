@@ -30,6 +30,8 @@ pymongo==3.4.0
 PySocks==1.6.1
 python-twitter==3.2.1
 pytz==2016.7
+setuptools==0.7.3
+distribute==0.6.24
 PyYAML==3.12
 requests==2.10.0
 requests-oauthlib==0.8.0
