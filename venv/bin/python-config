@@ -1,4 +1,4 @@
-#!/Users/forzfilm/Desktop/Python/linebotPythonTest1/rapatbot/venv/bin/python
+#!/Users/forzfilm/Desktop/Python/linebotPythonTest1/rapatbot_server/venv/bin/python
 
 import sys
 import getopt

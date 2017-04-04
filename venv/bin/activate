@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/forzfilm/Desktop/Python/linebotPythonTest1/rapatbot/venv"
+VIRTUAL_ENV="/Users/forzfilm/Desktop/Python/linebotPythonTest1/rapatbot_server/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

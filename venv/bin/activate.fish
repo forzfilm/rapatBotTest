@@ -36,7 +36,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/forzfilm/Desktop/Python/linebotPythonTest1/rapatbot/venv"
+set -gx VIRTUAL_ENV "/Users/forzfilm/Desktop/Python/linebotPythonTest1/rapatbot_server/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
